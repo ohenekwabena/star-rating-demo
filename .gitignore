@@ -14,7 +14,7 @@
 .history/
 
 # ignore .parcel-cache
-.parcel-cache/
+.parcel-cache
 
 # Built Visual Studio Code Extensions
 *.vsix
